@@ -43,8 +43,9 @@
 
 ### 13hrs ~ 15hrs
 
-1. Minha sugestão aqui é o desenvolvimento do cálculo para as horas;
-2. Apresentar o resultado no console e na tela.
+1. Sugestão, desenvolvimento do cálculo das horas (referência no script - // REALIZAR CONTA);
+	- Imprimir no console;
+2. Apresentando o resultado no console.log().
 
 <img src=".github/docs/calculator.png"/>
 
