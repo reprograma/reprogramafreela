@@ -1,4 +1,4 @@
-// versão antiga
+// versão original
 /* var formularioHora = document.querySelector(".secao-hora form");
 var spanHora = document.querySelector(".secao-hora .secao__rodape__valor span");
 
