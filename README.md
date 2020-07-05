@@ -16,8 +16,14 @@
 ### 09hrs~10hrs.
 
 1. Apresentar sobre como será a dinâmica do dia;
+	- Apresentação do contexto de desenvolvimento;
+		- FrontEnd
+		- Mobile
+		- BackEnd -> foco especificamente do curso
+	- Apresentar o que é uma linguagem de programação;
 2. Apresentar quais desafios serão desenvolvidos no decorrer do dia;
-3. Antes de iniciar o projeto técnico em si, apresentar um pouco sobre o que é backend, frontend e se possível, um pouco de mobile, e em qual contexto técnico o desafio do dia será desenvolvido no decorrer do curso.
+	- Mostrar o resultado completo inicialmente e por quê estamos vendo dessa maneira os cálculos e como será visto no desenvolvimento do curso;
+3. Se possível, com base no tempo, apresentar algum projeto de backend.
 
 ---
 
@@ -25,8 +31,11 @@
 
 ### 10hrs ~ 12hrs
 
-1. Apresentar HTML, CSS bem por cima, e começar o desafio de lógica;
-2. Pela manhã, eu coloco como sugestão o desenvolvimento de selecionar todos os dados que o usuário digitar, e chamar uma função imprimindo os valores.
+1. Apresentar HTML, CSS, essencialmente para entender o desenvolvimento básico, pois o foco será no cálculo;
+2. Iniciar o desafio de javascript.
+	- Recomendação: deixa o js já pronto no script. Se preferir, pode deixar dentro do index.html;
+3. Neste período, eu sugiro realizar o início do script (indicado no arquivo script.js como //INÍCIO);
+	- Selecionar os dados que o usuário digitar e imprimir na tela.
 
 ---
 
