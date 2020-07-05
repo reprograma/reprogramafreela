@@ -41,11 +41,16 @@
 
 ## Desenvolvimento do Desafio
 
-### 13hrs ~ 15hrs
+### 13hrs ~ 14hrs
 
 1. Sugestão, desenvolvimento do cálculo das horas (referência no script - // REALIZAR CONTA);
 	- Imprimir no console;
 2. Apresentando o resultado no console.log().
+
+### 14hrs ~ 15hrs
+
+1. Apresentar os dados na tela;
+	- Referência no script.js: // APRESENTAR RESULTADO
 
 <img src=".github/docs/calculator.png"/>
 
@@ -63,7 +68,7 @@
 
 ### 16hrs ~ 17hrs
 
-1. Apresentar quais serão os próximos desafios;
+1. Apresentar o próximo desafio.
 2. As alunas terão 24hrs para realizar o desafio seguinte que será:
 2.1. Desenvolver a calculadora "inversa".
 Dado uma nova tabela com os valores propostos abaixo, calcule o valor de um projeto com base nos dados:
